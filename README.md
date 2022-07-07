@@ -1,3 +1,5 @@
+Code Editor web application that provides Editor component and User profile, user can write code and run it to see results by sending code to .dll file on a .NET web service.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
